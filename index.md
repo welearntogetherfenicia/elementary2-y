@@ -1,35 +1,69 @@
 ---
-title: Home
+title: Welcome
 layout: home
+nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Welcome to Elementary 2
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+## Course Overview
 
-More specifically, the created site:
+Elevate your English proficiency in our Elementary 2 course! Building upon the foundation from Elementary 1, you'll explore more advanced language structures and broaden your communication skills in an engaging, supportive environment.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+### What You'll Learn
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+In this comprehensive course, you will:
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+- **Master the Past Simple Tense** - Work with both regular and irregular verbs to tell compelling stories about your experiences
+- **Enhance Your Descriptions** - Use comparatives and superlatives to describe objects, situations, and make meaningful comparisons
+- **Plan for the Future** - Learn to express future plans and intentions using "going to"
+- **Engage in Rich Discussions** - Use modal verbs to give advice, make suggestions, and express possibilities
+- **Expand Your Communication Skills** - Develop proficiency across speaking, listening, reading, and writing
 
-To get started with creating a site, simply:
+### Course Goals
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+By the end of Elementary 2, you will be able to:
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+1. Explore and master advanced language structures
+2. Develop proficiency in the past simple tense (regular and irregular verbs)
+3. Enhance narratives using time phrases
+4. Describe using comparatives and superlatives
+5. Engage in discussions using modal verbs
+6. Learn and apply "going to" for future events
 
-----
+## Meet Your Instructors
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+### Carolina Solano
+*Instructor And Coordinator*
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+### Alejandro Correa
+*Instructor And Coordinator*
+
+Our instructors have **2 years of teaching experience**.
+
+## [Course Structure](https://docs.google.com/document/d/1lafCeUj2Na1Enu4MlaTfnh-4TRjhDbdS/edit)
+
+- **Duration:** 14 weeks
+- **Format:** Interactive classes combining grammar, vocabulary, and practical skills
+- **Focus Areas:** Speaking, Listening, Reading, and Writing
+
+### Key Topics Covered
+
+- **Units 8-10:** Past experiences, shopping and comparisons, fashion and style
+- **Units 12-14:** Future plans, education and advice, technology and communication
+- **Special Sessions:** Mid-term review, final exam preparation, and graduation celebration
+
+## What Makes This Course Special
+
+- **Real-world Applications** - Practice English in practical, everyday situations
+- **Interactive Learning** - Engage with multimedia resources, games, and collaborative activities
+- **Comprehensive Skills Development** - Balance grammar instruction with conversational practice
+- **Progressive Learning** - Each lesson builds naturally on previous knowledge
+
+## Ready to Begin?
+
+Welcome to an exciting journey of English language discovery! We're here to support you every step of the way as you build confidence and fluency in English.
+
+---
+
+*Questions? Feel free to reach out to your instructors during class or office hours.*
