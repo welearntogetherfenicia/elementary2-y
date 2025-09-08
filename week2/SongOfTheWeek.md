@@ -7,7 +7,7 @@ nav_order: 1
 
 # Bryan Adams - Summer Of '69
 
-| <img src="/assets/images/Summer.jpg" alt="Song1" width="300"/> |
+| <img src="[/assets/images/Summer.jpg](https://github.com/welearntogetherfenicia/emelentary2-y/blob/main/assets/images/Summer.jpg?raw=true)" alt="Song1" width="300"/> |
 |:------------------------------------------------------------------------------------------:|
 | <a href="https://www.youtube.com/watch?v=eFjjO_lhf9c">Youtube Link</a> |
 
