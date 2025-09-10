@@ -77,3 +77,15 @@ It was the summer of '69, oh, yeah <br />
 Me and my baby in a '69, ohh, ho! <br />
 It was the summer, summer, summer of '69 <br />
 Yeah
+
+
+## Other Recomendations
+
+1. **[Yesterday – The Beatles](https://www.youtube.com/watch?v=wXTJBr9tt8Q)**
+2. **[Let It Be – The Beatles](https://www.youtube.com/watch?v=5AnNkJ_VK9E&list=RD5AnNkJ_VK9E&start_radio=1)**
+3. **[Boulevard of Broken Dreams – Green Day](https://www.youtube.com/watch?v=Soa3gO7tL-c&list=RDSoa3gO7tL-c&start_radio=1)**
+4. **[Livin’ on a Prayer – Bon Jovi](https://www.youtube.com/watch?v=lDK9QqIzhwk&list=RDlDK9QqIzhwk&start_radio=1)**
+5. **[Somebody That I Used to Know – Gotye](https://www.youtube.com/watch?v=hhyi3rrVB6E&list=RDhhyi3rrVB6E&start_radio=1)**
+6. **[We Didn’t Start the Fire – Billy Joel](https://www.youtube.com/watch?v=eFTLKWw542g&list=RDeFTLKWw542g&start_radio=1)**
+7. **[I Still Haven’t Found What I’m Looking For – U2](https://www.youtube.com/watch?v=e3-5YC_oHjE&list=RDe3-5YC_oHjE&start_radio=1)**
+8. **[Hello – Adele](https://www.youtube.com/watch?v=YQHsXMglC9A&list=RDYQHsXMglC9A&start_radio=1)**
