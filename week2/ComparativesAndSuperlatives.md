@@ -39,12 +39,10 @@ In order to build comparative and superlative structures, some rules must be fol
 Tall → Taller → The tallest  
 
 #### Exceptions:
-| Case | Comparative | Superlative |
-|------|-------------|-------------|
-| Ends in **-e** | add **-r** | add **-st** |
-| Example: Wide → Wider | The widest |
-| Ends in consonant + vowel + consonant | double last consonant + **-er** | double last consonant + **-est** |
-| Example: Big → Bigger | The biggest |
+| Rule | Adjective | Comparative | Superlative |
+|------|-----------|-------------|-------------|
+| Ends in **-e** | Wide | Wider | The widest |
+| Ends in consonant + vowel + consonant | Big | Bigger | The biggest |
 
 ---
 
@@ -56,10 +54,9 @@ Tall → Taller → The tallest
 Clever → More clever / Cleverer → The most clever / The cleverest  
 
 #### Exceptions:
-| Case | Comparative | Superlative |
-|------|-------------|-------------|
-| Ends in **-y** | -y → -ier | -y → -iest |
-| Example: Easy → Easier | The easiest |
+| Rule | Adjective | Comparative | Superlative |
+|------|-----------|-------------|-------------|
+| Ends in **-y** | Easy | Easier | The easiest |
 
 ---
 
