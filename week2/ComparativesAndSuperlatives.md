@@ -1,3 +1,10 @@
+---
+title: Comparatives and Superlatives
+parent: Week 2
+layout: home
+nav_order: 2
+---
+
 # Comparatives and Superlatives
 
 ## 1. Comparative and Superlative Adjectives
