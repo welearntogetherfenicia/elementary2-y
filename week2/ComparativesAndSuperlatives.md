@@ -39,6 +39,7 @@ In order to build comparative and superlative structures, some rules must be fol
 Tall → Taller → The tallest  
 
 #### Exceptions:
+
 | Rule | Adjective | Comparative | Superlative |
 |------|-----------|-------------|-------------|
 | Ends in **-e** | Wide | Wider | The widest |
@@ -54,6 +55,7 @@ Tall → Taller → The tallest
 Clever → More clever / Cleverer → The most clever / The cleverest  
 
 #### Exceptions:
+
 | Rule | Adjective | Comparative | Superlative |
 |------|-----------|-------------|-------------|
 | Ends in **-y** | Easy | Easier | The easiest |
