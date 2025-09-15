@@ -1,6 +1,7 @@
 ---
-title: Class Rules
-layout: default
+title: Rules
+parent: Welcome
+layout: home
 nav_order: 1
 ---
 
