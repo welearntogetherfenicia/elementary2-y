@@ -1,6 +1,6 @@
 ---
 title: Song Of The Week
-parent: Week 2
+parent: Week 3
 layout: home
 nav_order: 1
 ---

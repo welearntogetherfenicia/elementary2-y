@@ -4,4 +4,4 @@ layout: default
 nav_order: 3
 ---
 
-# Week 2 - Buy and Sell
+# Week 2 - Practice Past Simple

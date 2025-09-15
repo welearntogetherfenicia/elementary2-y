@@ -1,6 +1,6 @@
 ---
 title: Comparatives and Superlatives
-parent: Week 2
+parent: Week 3
 layout: home
 nav_order: 2
 ---
