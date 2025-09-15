@@ -11,8 +11,8 @@ nav_order: 4
 - Revise the verb **"get"**: meaning, forms, and simple examples.
 
 ## 2. Practice
-- Practice the **vowel sounds (a, e, i, o, u)** by saying them out loud.
-- Write **5 simple words** for each vowel.
+- Practice the **alphabet letters (A–Z)** by saying them out loud.  
+- Be ready to **spell some words in class**.
 
 ## 3. Extra Activity ⭐
 - Create **3 short sentences** using the verb *get*.
