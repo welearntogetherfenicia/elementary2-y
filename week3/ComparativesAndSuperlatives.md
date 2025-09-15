@@ -14,7 +14,7 @@ Comparative adjectives are used to **compare a certain characteristic or quality
 
 **Example:**
 
-|<img src="/assets/images/14-01-es.jpg" alt="Song1" width="300"/>|
+|<img src="https://raw.githubusercontent.com/welearntogetherfenicia/emelentary2-y/refs/heads/main/assets/images/14-01-es.jpg" alt="Song1" width="300"/>|
 |:--------------------------------------------------------------:|
 |*The mouse is smaller than the owl.*|
 
@@ -25,7 +25,7 @@ Superlative adjectives express the **maximum degree of a characteristic** of an 
 
 **Example:**
 
-|<img src="/assets/images/14-02-es.jpg" alt="Song1" width="300"/>|
+|<img src="https://raw.githubusercontent.com/welearntogetherfenicia/emelentary2-y/refs/heads/main/assets/images/14-02-es.jpg" alt="Song1" width="300"/>|
 |:--------------------------------------------------------------:|
 |*The fastest car is the blue one.*|
 
@@ -43,7 +43,7 @@ In order to build comparative and superlative structures, some rules must be fol
 
 **Example:**
 
-|<img src="/assets/images/14-03-es.jpg" alt="Song1" width="200"/>| <img src="/assets/images/14-04-es.jpg" alt="Song1" width="200"/> |<img src="/assets/images/14-05-es.jpg" alt="Song1" width="200"/>
+|<img src="https://raw.githubusercontent.com/welearntogetherfenicia/emelentary2-y/refs/heads/main/assets/images/14-03-es.jpg" alt="Song1" width="200"/>| <img src="https://raw.githubusercontent.com/welearntogetherfenicia/emelentary2-y/refs/heads/main/assets/images/14-04-es.jpg" alt="Song1" width="200"/> |<img src="https://raw.githubusercontent.com/welearntogetherfenicia/emelentary2-y/refs/heads/main/assets/images/14-05-es.jpg" alt="Song1" width="200"/>
 |:-----------------:|:-----------------:|:-----------------:|
 |*Tall*|*Taller*|*The tallest*|
 
