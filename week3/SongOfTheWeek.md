@@ -7,7 +7,7 @@ nav_order: 1
 
 # Comparatives and superlatives song
 
-| <img src="https://github.com/welearntogetherfenicia/emelentary2-y/blob/main/assets/images/Summer.jpg?raw=true" alt="Song1" width="300"/> |
+| <img src="https://raw.githubusercontent.com/welearntogetherfenicia/elementary2-y/refs/heads/main/assets/images/comparatives_song.jpg" alt="Song1" width="300"/> |
 |:------------------------------------------------------------------------------------------:|
 | <a href="https://www.youtube.com/watch?v=eFjjO_lhf9c">Youtube Link</a> |
 
