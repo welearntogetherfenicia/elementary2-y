@@ -8,7 +8,7 @@ nav_order: 4
 
 ## Class Materials - Week 3
 
-### 📋 [Comparatives and Superlatives](https://www.canva.com/design/DAGyEhUfEXA/mUZH4ZGg5VQlefXogDJGxw/edit?utm_content=DAGyEhUfEXA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+### 📋 [Comparatives and Superlatives](https://www.canva.com/design/DAGyolWGXqA/SYJvD3bp0CE8nPNcUOlSSg/edit?utm_content=DAGyolWGXqA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 Comparatives and Superlatives activity
 
 ### 🤔 Let's review the verb **Get**
