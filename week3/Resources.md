@@ -12,7 +12,7 @@ nav_order: 4
 Comparatives and Superlatives activity
 
 ### 🤔 Let's review the verb **Get**
-### ![Get Rules](https://raw.githubusercontent.com/welearntogetherfenicia/elementary2-y/refs/heads/main/assets/images/getRules.jpg)
+![Get Rules](https://raw.githubusercontent.com/welearntogetherfenicia/elementary2-y/refs/heads/main/assets/images/getRules.jpg)
 
 ### 📺 [Useful Phrasal Verbs with GET](https://www.youtube.com/watch?v=hAtgXJ7YxOc)
 Let's watch a video 👀
