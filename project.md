@@ -28,5 +28,7 @@ The most important part is to:
 - **Explain your topic clearly**  
 - Show your understanding of the class materials  
 
+## ⏰ Due Date
+- Your project must be ready to present on **October 11th**
 ---
-✨ Have fun preparing your project, and remember: **Creativity is key!**
+✨ Have fun preparing your project, and remember: **Creativ ity is key!**
