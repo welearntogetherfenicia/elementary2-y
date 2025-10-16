@@ -1,11 +1,11 @@
 ---
 title: Song Of The Week
-parent: Week 3
+parent: Week 7
 layout: home
 nav_order: 1
 ---
 
-# Comparatives and superlatives song
+# Week 7 Song
 
 | <img src="https://cdn-images.dzcdn.net/images/cover/8bdaf37e2e7f883e84bbc3462c938293/1900x1900-000000-81-0-0.jpg" alt="Song1" width="300"/> |
 |:------------------------------------------------------------------------------------------:|
