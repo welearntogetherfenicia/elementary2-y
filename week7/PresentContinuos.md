@@ -229,10 +229,6 @@ With the adverb of frequency **always** to refer to **actions** that are **repea
   </div>
 </div>
 
-<div class="alert alert-warning">
-<strong>⚠️ Remember:</strong> The <strong>present continuous</strong> is <strong>not used</strong> when the main verb is a <strong>stative verb</strong>.
-</div>
-
 ---
 
 ## 📝 Summary
