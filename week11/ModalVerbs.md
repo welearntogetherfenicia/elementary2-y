@@ -1,11 +1,11 @@
 ---
-title: Modal Verbs Have to & Don't Have to
+title: Modal Verbs: Have to & Don't Have to
 parent: Week 11
 layout: home
 nav_order: 2
 ---
 
-# Have to and Don't Have to
+# Have to & Don't Have to
 
 ## Modal Verbs
 
